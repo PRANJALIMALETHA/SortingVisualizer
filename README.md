@@ -16,6 +16,13 @@ AlgoViz is a Java-based interactive tool that visualizes various sorting algorit
 - **Real-Time Visualization:** Experience sorting algorithms in action, with each step animated on the graphical display.
 
 - **Adjustable Speed:** Control the speed of the animations to suit your learning pace.
+array before sorting 
+![Screenshot (2181)](https://github.com/user-attachments/assets/25e64144-294e-46ac-8fb2-fbedcdf7114c)
+array while sorting 
+![Screenshot (2182)](https://github.com/user-attachments/assets/e9ac479c-e777-4d64-bea3-d6a15a3005cd)
+array after sorting
+![Screenshot (2183)](https://github.com/user-attachments/assets/437087f4-4c6e-4820-8d30-96b95c44cf1f)
+
 
 ## Getting Started
 
